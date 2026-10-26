@@ -1,0 +1,4 @@
+﻿sample_id,y_true,y_pred
+s02,1,0
+s04,0,1
+s08,0,1
