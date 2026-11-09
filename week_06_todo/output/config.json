@@ -1,0 +1,1 @@
+{"data_seed": 42, "loader_seed": 43, "model_seed": 44, "batch_size": 16, "epochs": 60, "lr": 0.1, "train_count": 160, "val_count": 40, "device": "cpu", "model": "2-8-2 ReLU", "loss": "CrossEntropyloss", "optimizer": "SGD", "python": "3.9.13 (main, Aug 25 2022, 23:51:50) [MSC v.1916 64 bit (AMD64)]", "torch": "2.8.0+cpu"}
