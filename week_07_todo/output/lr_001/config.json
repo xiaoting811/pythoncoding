@@ -1,0 +1,17 @@
+{
+  "lr": 0.01,
+  "epochs": 60,
+  "batch_size": 16,
+  "loader_seed": 43,
+  "model_seed": 44,
+  "model": "2-8-2 ReLU",
+  "optimizer": "SGD",
+  "loss": "CrossEntropyLoss",
+  "device": "cpu",
+  "train_count": 160,
+  "val_count": 40,
+  "data_sha256": "35961cfaabd40a3ec5805eb4a3721aa9263ee7bb029fc1a07d11bdbf113cecf0",
+  "initial_val_loss": 0.7796602249145508,
+  "python": "3.9.13 (main, Aug 25 2022, 23:51:50) [MSC v.1916 64 bit (AMD64)]",
+  "torch": "2.8.0+cpu"
+}
